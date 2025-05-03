@@ -1,4 +1,4 @@
-# Photoshop Timestamp Progress Bar Script (time_stamp.jsx)
+# Photoshop Timestamp Progress Bar Script
 
 [中文版](README.md) | English Version
 

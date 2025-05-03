@@ -1,4 +1,4 @@
-# Photoshop 时间戳进度条脚本 (time_stamp.jsx)
+# Photoshop 时间戳进度条脚本
 
 中文版 | [English Version](README.en.md)
 
