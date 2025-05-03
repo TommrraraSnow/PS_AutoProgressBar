@@ -69,10 +69,10 @@ function createTimestampProgressBar() {
         "实战配队",
         "结尾",
     ];
-    // 刻度图层的名称 (请确保与你的 Photoshop 图层名称一致)
-    var scaleLayerName = "刻度";
-    // 示例文本图层的名称 (请确保与你的 Photoshop 图层名称一致)
-    var sampleTextLayerName = "示例文本";
+    // 刻度图层的名称 (请确保与你的 Photoshop 文档中实际使用的图层名称一致，可以是中文、英文或其他语言)
+    var scaleLayerName = "刻度"; // 例如: "Scale" 或 "刻度"
+    // 示例文本图层的名称 (请确保与你的 Photoshop 文档中实际使用的图层名称一致，可以是中文、英文或其他语言)
+    var sampleTextLayerName = "示例文本"; // 例如: "Sample Text" 或 "示例文本"
     // --- 配置结束 ---
 
     if (app.documents.length === 0) {
